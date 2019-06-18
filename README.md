@@ -8,12 +8,16 @@ Dillinger uses a number of open source projects to work properly:
 
 * [VueJS] - HTML enhanced for web apps!
 * [Twitter Bootstrap] - great UI boilerplate for modern web apps
-* [node.js] - evented I/O for the backend
 
 ### Installation
 ```sh
 $ npm install
 $ node run serve
+```
+
+### For making a build
+```sh
+$ node run webpack
 ```
 
 ### URL
