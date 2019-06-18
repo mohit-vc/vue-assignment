@@ -22,5 +22,5 @@ $ node run webpack
 
 ### URL
 ```sh
-$ http://localhost:8080
+http://localhost:8080
 ```
